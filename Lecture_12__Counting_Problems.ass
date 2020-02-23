@@ -1,0 +1,157 @@
+﻿[Script Info]
+Title: PMC
+ScriptType: V4.00
+Original Script: Grapefruittea360@gmail.com
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+
+[v4 Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,TertiaryColour,BackColour,Bold,Italic,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,AlphaLevel,Encoding
+Style: Default0,Arial,24,&HFFFFFF,&HFFFFFF,&H0,&H0,0,0,1,0,0,2,15,15,20,0,134
+[Events]
+Format: Marked,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+
+Dialogue: Marked=0,0:00:03.03,0:00:04.34,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}counting we did the addition principle
+Dialogue: Marked=0,0:00:04.35,0:00:06.02,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}the multiplication principle the
+Dialogue: Marked=0,0:00:06.00,0:00:03.02,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}we've done five principles about
+Dialogue: Marked=0,0:00:06.03,0:00:09.11,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}complement principle the notice when two
+Dialogue: Marked=0,0:00:09.12,0:00:11.39,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}things are the same principle and the
+Dialogue: Marked=0,0:00:11.40,0:00:13.55,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}count things multiple times in a
+Dialogue: Marked=0,0:00:13.56,0:00:16.49,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}controlled way principle and then from
+Dialogue: Marked=0,0:00:16.50,0:00:18.80,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}there we went through some of the ABCs
+Dialogue: Marked=0,0:00:18.81,0:00:20.57,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}that come up a lot in counting
+Dialogue: Marked=0,0:00:20.58,0:00:24.44,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}combinations and permutations and now
+Dialogue: Marked=0,0:00:24.45,0:00:27.32,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}we're doing the next step which is to go
+Dialogue: Marked=0,0:00:27.33,0:00:29.33,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}through some more ABCs that come up and
+Dialogue: Marked=0,0:00:29.34,0:00:32.15,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}counting and finishing up those ABCs
+Dialogue: Marked=0,0:00:32.16,0:00:35.27,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}we'll move on to the inclusion exclusion
+Dialogue: Marked=0,0:00:35.28,0:00:37.34,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}theorem which I taught you back in set
+Dialogue: Marked=0,0:00:37.35,0:00:39.47,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}theory and we're going to see how that
+Dialogue: Marked=0,0:00:39.48,0:00:41.93,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}connects back to counting problems that
+Dialogue: Marked=0,0:00:41.94,0:00:43.82,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}is really a generalization of this
+Dialogue: Marked=0,0:00:43.83,0:00:46.58,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}complement principle the inclusion
+Dialogue: Marked=0,0:00:46.59,0:00:47.99,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}exclusion principle if you remember how
+Dialogue: Marked=0,0:00:48.00,0:00:49.88,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}it works is looking at the stuff that
+Dialogue: Marked=0,0:00:49.89,0:00:52.43,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}doesn't intersect but the overlap so
+Dialogue: Marked=0,0:00:52.44,0:00:54.23,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}it's kind of a generalized complement
+Dialogue: Marked=0,0:00:54.24,0:00:56.30,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}principle and it's a lot trickier but it
+Dialogue: Marked=0,0:00:56.31,0:00:58.28,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}lets you solve incredibly difficult
+Dialogue: Marked=0,0:00:58.29,0:01:00.35,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}sounding problems so we're going to get
+Dialogue: Marked=0,0:01:00.36,0:01:02.39,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}to that today once we're done with that
+Dialogue: Marked=0,0:01:02.40,0:01:04.49,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}we're done with what I think are more or
+Dialogue: Marked=0,0:01:04.50,0:01:06.32,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}less the basics of counting there's one
+Dialogue: Marked=0,0:01:06.33,0:01:08.21,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}more principle which is really all on
+Dialogue: Marked=0,0:01:08.22,0:01:10.04,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}its own and it's a really simple
+Dialogue: Marked=0,0:01:10.05,0:01:11.48,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}principle called the pigeonhole
+Dialogue: Marked=0,0:01:11.49,0:01:13.64,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}principle and it basically means that if
+Dialogue: Marked=0,0:01:13.65,0:01:16.25,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}you've got five pigeon holes and six
+Dialogue: Marked=0,0:01:16.26,0:01:18.17,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}pigeons that when you're all done
+Dialogue: Marked=0,0:01:18.18,0:01:19.64,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}putting your pigeons in the pigeon holes
+Dialogue: Marked=0,0:01:19.65,0:01:21.23,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}there's going to be one hole that it's
+Dialogue: Marked=0,0:01:21.24,0:01:25.10,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}got at least two pigeons it's like it's
+Dialogue: Marked=0,0:01:25.11,0:01:27.26,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}like a no-brainer principle but there
+Dialogue: Marked=0,0:01:27.27,0:01:29.42,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}are surprisingly subtle things you can
+Dialogue: Marked=0,0:01:29.43,0:01:31.76,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}prove with that simple principle and
+Dialogue: Marked=0,0:01:31.77,0:01:33.77,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}actually there are such things as pigeon
+Dialogue: Marked=0,0:01:33.78,0:01:35.54,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}holes down in caves these little niches
+Dialogue: Marked=0,0:01:35.55,0:01:37.58,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}out and people used to raise pigeons in
+Dialogue: Marked=0,0:01:37.59,0:01:39.98,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}them so if you ever saw a cave with
+Dialogue: Marked=0,0:01:39.99,0:01:41.78,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}pigeon holes in the wall you'd see why
+Dialogue: Marked=0,0:01:41.79,0:01:42.77,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}they call this the pigeon hole principle
+Dialogue: Marked=0,0:01:42.78,0:01:46.22,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}looks just like you'd think and when
+Dialogue: Marked=0,0:01:46.23,0:01:48.83,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}you're out of room for pigeons right
+Dialogue: Marked=0,0:01:48.84,0:01:50.78,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}there right there's a lot of flying
+Dialogue: Marked=0,0:01:50.79,0:01:57.80,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}pigeons around okay well very last thing
+Dialogue: Marked=0,0:01:57.81,0:01:59.36,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}in this whole unit will be we're going
+Dialogue: Marked=0,0:01:59.37,0:02:00.50,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}to take all the stuff we've done in
+Dialogue: Marked=0,0:02:00.51,0:02:02.90,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}counting the principles the ABCs the
+Dialogue: Marked=0,0:02:02.91,0:02:03.95,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}inclusion exclusion
+Dialogue: Marked=0,0:02:03.96,0:02:06.98,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}helper generalization of the complement
+Dialogue: Marked=0,0:02:06.99,0:02:08.33,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}principle we're going to take it off and
+Dialogue: Marked=0,0:02:08.34,0:02:10.28,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}see how does this connect to certain
+Dialogue: Marked=0,0:02:10.29,0:02:12.04,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}kinds of probability questions and
+Dialogue: Marked=0,0:02:12.05,0:02:13.79,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}probability is of course you
+Dialogue: Marked=0,0:02:13.80,0:02:15.38,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}take independent of a combinatorics
+Dialogue: Marked=0,0:02:15.39,0:02:17.99,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}course and when it's typically taught
+Dialogue: Marked=0,0:02:18.00,0:02:22.70,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}its taught in a very very widespread way
+Dialogue: Marked=0,0:02:22.71,0:02:24.56,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}often getting into statistics often
+Dialogue: Marked=0,0:02:24.57,0:02:26.21,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}getting into calculus and continuous
+Dialogue: Marked=0,0:02:26.22,0:02:28.19,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}kind of things the probability that we
+Dialogue: Marked=0,0:02:28.20,0:02:30.08,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}talk about in this class is a subset of
+Dialogue: Marked=0,0:02:30.09,0:02:31.61,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}that course called discrete probability
+Dialogue: Marked=0,0:02:31.62,0:02:33.95,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}a very small subset and it deals with
+Dialogue: Marked=0,0:02:33.96,0:02:35.90,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}probability that you can actually count
+Dialogue: Marked=0,0:02:35.91,0:02:39.29,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}and it's really almost a 10-minute
+Dialogue: Marked=0,0:02:39.30,0:02:41.15,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}lecture on probability at most and
+Dialogue: Marked=0,0:02:41.16,0:02:43.25,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}really just let's do all the stuff we
+Dialogue: Marked=0,0:02:43.26,0:02:45.11,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}did before in counting but related to
+Dialogue: Marked=0,0:02:45.12,0:02:46.67,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}probability so it's not going to be
+Dialogue: Marked=0,0:02:46.68,0:02:47.75,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}anything new it's just going to be
+Dialogue: Marked=0,0:02:47.76,0:02:50.33,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}applications of counting to probability
+Dialogue: Marked=0,0:02:50.34,0:02:51.32,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}in a discrete way
+Dialogue: Marked=0,0:02:51.33,0:02:54.08,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}so the real principles are really today
+Dialogue: Marked=0,0:02:54.09,0:02:56.29,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}and next lecture and then it'll be just
+Dialogue: Marked=0,0:02:56.30,0:02:59.27,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}probability as an application any
+Dialogue: Marked=0,0:02:59.28,0:03:01.97,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}questions all right so here's here's our
+Dialogue: Marked=0,0:03:01.98,0:03:04.49,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}next one of our ABCs we did permutations
+Dialogue: Marked=0,0:03:04.50,0:03:06.86,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}and combinations last time and now we're
+Dialogue: Marked=0,0:03:06.87,0:03:08.18,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}going to do some variations on
+Dialogue: Marked=0,0:03:08.19,0:03:10.04,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}permutations and combinations something
+Dialogue: Marked=0,0:03:10.05,0:03:11.87,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}you might call them generalize
+Dialogue: Marked=0,0:03:11.88,0:03:13.94,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}permutations or combinations but here's
+Dialogue: Marked=0,0:03:13.95,0:03:15.50,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}one that I know you've seen before and
+Dialogue: Marked=0,0:03:15.51,0:03:17.54,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}again I'll do it by example we'll call
+Dialogue: Marked=0,0:03:17.55,0:03:26.39,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}this a generalized permutation and we'll
+Dialogue: Marked=0,0:03:26.40,0:03:28.52,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}talk about generalized combinations what
+Dialogue: Marked=0,0:03:28.53,0:03:29.78,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}I mean by generalized is that
+Dialogue: Marked=0,0:03:29.79,0:03:31.43,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}permutations of combinations have a very
+Dialogue: Marked=0,0:03:31.44,0:03:33.38,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}specific meaning you have a certain
+Dialogue: Marked=0,0:03:33.39,0:03:35.57,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}number of elements permutations are you
+Dialogue: Marked=0,0:03:35.58,0:03:37.22,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}take some subset out you care about the
+Dialogue: Marked=0,0:03:37.23,0:03:40.07,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}order combination is you take some
+Dialogue: Marked=0,0:03:40.08,0:03:41.69,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}subset out you don't care about the
+Dialogue: Marked=0,0:03:41.70,0:03:44.75,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}order a generalized permutation allows
+Dialogue: Marked=0,0:03:44.76,0:03:47.57,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}some extra parameter here you're allowed
+Dialogue: Marked=0,0:03:47.58,0:03:50.42,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}to take out an element more than once in
+Dialogue: Marked=0,0:03:50.43,0:03:52.67,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}other words it's not just a set of n
+Dialogue: Marked=0,0:03:52.68,0:03:54.62,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}elements it might be a set of n types
+Dialogue: Marked=0,0:03:54.63,0:03:56.24,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}like you have four kinds of cookies
+Dialogue: Marked=0,0:03:56.25,0:03:58.34,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}you're in a bakery you want to take six
+Dialogue: Marked=0,0:03:58.35,0:04:00.35,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}cookies how many different ways can you
+Dialogue: Marked=0,0:04:00.36,0:04:02.24,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}do that so there you can repeat you can
+Dialogue: Marked=0,0:04:02.25,0:04:04.37,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}take the same cookie many times that's a
+Dialogue: Marked=0,0:04:04.38,0:04:06.41,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}different kind of problem so if you add
+Dialogue: Marked=0,0:04:06.42,0:04:08.72,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}repetition as a parameter you get a more
+Dialogue: Marked=0,0:04:08.73,0:04:10.40,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}generalized look at permutations and
+Dialogue: Marked=0,0:04:10.41,0:04:13.22,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}combinations okay that's what we're
+Dialogue: Marked=0,0:04:13.23,0:04:15.94,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}gonna talk about right now so here's
+Dialogue: Marked=0,0:04:15.95,0:04:18.08,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}here's the first example here this
+Dialogue: Marked=0,0:04:18.09,0:04:19.76,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}example you've seen before let's say
+Dialogue: Marked=0,0:04:19.77,0:04:21.29,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}you've got two different things zeros
+Dialogue: Marked=0,0:04:21.30,0:04:26.12,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}and ones and you want to in order
+Dialogue: Marked=0,0:04:26.13,0:04:27.74,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}tschüss a bunch of these zeros and
+Dialogue: Marked=0,0:04:27.75,0:04:31.25,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}and put them in a list say a list of
+Dialogue: Marked=0,0:04:31.26,0:04:35.45,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}five five zeros and ones so here's an
+Dialogue: Marked=0,0:04:35.46,0:04:38.17,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}example
+Dialogue: Marked=0,0:04:40.23,0:04:41.93,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}to take zeros and ones and put them in a
+Dialogue: Marked=0,0:04:41.94,0:04:44.39,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}list of five it's how many binary
+Dialogue: Marked=0,0:04:44.40,0:04:46.76,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}numbers are there you could list them
+Dialogue: Marked=0,0:04:46.77,0:04:48.65,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}all out start at zero zero zero zero
+Dialogue: Marked=0,0:04:48.66,0:04:51.83,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}zero end at 1 1 1 1 1 1 and you all know
+Dialogue: Marked=0,0:04:51.84,0:04:54.29,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}that inductively this is kind of a
+Dialogue: Marked=0,0:04:54.30,0:04:55.82,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}straightforward idea because if I tell
+Dialogue: Marked=0,0:04:55.83,0:04:58.07,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}you how many there are 4 5 then if I add
+Dialogue: Marked=0,0:04:58.08,0:05:01.55,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}one more possible thing 0 or 1 I can put
+Dialogue: Marked=0,0:05:01.56,0:05:04.25,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}a 0 in front of all the 5 cases and a 1
+Dialogue: Marked=0,0:05:04.26,0:05:05.69,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}in front of all the 5 cases and that
+Dialogue: Marked=0,0:05:05.70,0:05:08.18,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}gives me all the 6 possible cases so
+Dialogue: Marked=0,0:05:08.19,0:05:10.85,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}with doubles every time and we've done
+Dialogue: Marked=0,0:05:10.86,0:05:12.17,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}this in a lot of different contexts
+Dialogue: Marked=0,0:05:12.18,0:05:14.03,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}we've seen that this is the same as the
+Dialogue: Marked=0,0:05:14.04,0:05:16.58,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}number of subsets same as the number of
+Dialogue: Marked=0,0:05:16.59,0:05:19.04,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}binary numbers Linkens let me write it
+Dialogue: Marked=0,0:05:19.05,0:05:23.48,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}down binary numbers length n equals
+Dialogue: Marked=0,0:05:23.49,0:05:28.70,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}number of subsets of a set with n
+Dialogue: Marked=0,0:05:28.71,0:05:30.86,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fnMicrosoft YaHei UI}{\an2}elements
