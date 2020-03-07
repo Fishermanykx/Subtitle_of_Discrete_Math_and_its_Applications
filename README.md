@@ -8,3 +8,5 @@ The original videos don't have subtitles, and the lecturer's speaking speed is a
 ## The videos can be found in the following links
 1. For Chinese users: [av86370127](https://www.bilibili.com/video/av86370127) (This is my bilibili account)
 2. For other users: [link](http://www.aduni.org/courses/discrete/index.php?view=cw)
+
+The repo is protected under the GPL-2.0 license
